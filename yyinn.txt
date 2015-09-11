@@ -1,0 +1,37 @@
+void main
+{
+     	char h='w'
+  
+        int a=10   // 声明变量a
+        
+        int u=-10
+
+        if((a==10))
+        {
+             a=1
+	}
+	
+        for(int i=0 ;(i<9) ; i=i+1)/*编译大作业 第五次*/
+	{
+		a = a ++
+		a = a --
+	}
+	while( (a == 1) )
+	{
+		a = a + 10
+		b = a
+		if( ( a == 11 ) )
+		{
+			int c = a * 100 
+		}
+		else
+		{
+			int d = a * b
+		}
+	}
+
+	int a = a % 2
+	int b = a + 3
+       
+	
+}

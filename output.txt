@@ -1,0 +1,12 @@
+
+		TEMP_DB_1 DB ?
+		TEMP_DD_1 DD ?
+		TEMP_DD_2 DD ?
+		TEMP_DD_3 DD ?
+		TEMP_DD_4 DD ?
+		TEMP_DD_5 DD ?
+		TEMP_DD_6 DD ?
+		TEMP_DD_7 DD ?
+		TEMP_DD_8 DD ?
+		TEMP_DD_9 DD ?
+		TEMP_DD_10 DD ?
